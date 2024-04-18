@@ -33,6 +33,7 @@ private:
 int main()
 {
 	Vector v;
+	v.Show();
 	v.VectorLenght();
 }
 
